@@ -22,18 +22,21 @@ knowledge-base/
 │ └── Subtheme.php # Subtopic entity
 └── assets/
 └── style.css # UI styles
-
+```
 
 ## Installation
 
 1. Clone repository:
    ```bash
    git clone https://github.com/yourusername/knowledge-base.git
+   ```
 
 2. Start PHP server:
    ```bash
    cd knowledge-base && php -S localhost:8000
+   ```
 
 3. Open in browser:
    ```bash
    http://localhost:8000
+   ```
