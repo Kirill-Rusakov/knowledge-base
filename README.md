@@ -13,7 +13,7 @@ A simple hierarchical knowledge base system built with pure PHP using OOP princi
 - **Data**: In-memory array storage (easily upgradable to DB)
 
 ## Project Structure
-
+```bash
 knowledge-base/
 ├── index.php # Entry point
 ├── classes/
@@ -31,7 +31,9 @@ knowledge-base/
    git clone https://github.com/yourusername/knowledge-base.git
 
 2. Start PHP server:
-cd knowledge-base && php -S localhost:8000
+   ```bash
+   cd knowledge-base && php -S localhost:8000
 
 3. Open in browser:
-http://localhost:8000
+   ```bash
+   http://localhost:8000
